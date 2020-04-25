@@ -20,3 +20,9 @@ As we transition, I wanted to identify candidates that would benefit from a ment
 To conduct this analysis, I used my Employee Database to identify candidates what have a birth date in the the year 1965.  These are employees with experience, but they still have many years before eligibility for retirement.
 
 I have included a file of all relevant mentorship candidates.  I have identified 1549 candidates.  This can be a start.  As we establish the program, we can fine tune the criteria for eligibility.
+
+## Future Analysis
+I recommend slicing the data for retirees to better fine tune the eligibility for potential mentorship
+
+## Data Backup
+I have included queries used in this analysis in the file challenge.sql.  Additionally, I have added exports of the employee lists for each table into this repository.
