@@ -3,7 +3,7 @@
 ## Overview
 To help Pewlett Hackard better handle the large wave of retirees happening over the next few years, I have studied Employee data to identify which titles will have a large number of eligible retiries.  I have also put together a list of employees eligible for mentorship to help them transition and be paired off to help train others.
 
-Both these analyses were powered by a SQL database that I created from various spreadsheets.  To help navigate the data, I put together a diagram of the various entities.
+Both these analyses were powered by a SQL database that I created from various spreadsheets, containing an employee's info, salary, and title history.  To help navigate the data, I put together a diagram of the various entities.
 ![EmployeeDB.png](EmployeeDB.png)
 
 ## Number of Retirees by Title
